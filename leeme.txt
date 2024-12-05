@@ -1,0 +1,4 @@
+Descripción del proyecto
+
+El programa examengit es un proyecto básico en Java que permite al usuario interactuar con un menú para realizar distintas operaciones con palabras y frases. 
+Está diseñado para ser sencillo y práctico, ofreciendo opciones de manipulación de texto que ilustran conceptos fundamentales de programación.
