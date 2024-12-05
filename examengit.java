@@ -47,7 +47,13 @@ public class examengit {
                     break;
 
                 case 4:
-                    
+                    System.out.print("¿Estás seguro de que deseas salir? (s/n): ");
+                    String confirmacion = scanner.nextLine();
+                    if (confirmacion.equalsIgnoreCase("s")) {
+                        salir = true;
+                        System.out.println("¡Adiós!");
+                    }
+                    break;
 
                 default:
                     System.out.println("Opción no válida. Por favor, selecciona una opción del 1 al 4.");
